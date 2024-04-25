@@ -5,7 +5,7 @@ The Health Department Food Inspectiion Trackers goal is to examine data from the
 Projects Must Answer: 
 How many restaurants are inspected every week/month?
 How does the inspection frequency vary by geographic area?
-Identify restaurants that have received a (1) downgraded or upgraded inspection and those that have received a (2) failing or passing grade.
+Identify restaurants that have been inspected at least once before who then either receive a (1) downgraded or upgraded inspection (2) Failing or Passing grade? - How many?
 
 Execution of the Project: 
 Data Collection- The project contains health inspection data from the City of Chicagos health department. Business names, results, geographic information and types of inspection (upgraded/downgraded) are extracted.
