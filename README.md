@@ -23,6 +23,6 @@ Dataset key attributes:
     fail- number of inspections resulting in failing the City of Chicagos Health Department inspections.
     pass- number of inspections resulting in passing the City of Chicagos Health Department inspections.
 
-https://datawrapper.dwcdn.net/K5qQy/4/   -Telly Chart-Last Months Inspection Summary
+https://datawrapper.dwcdn.net/4eYY5/1/   -Telly Chart-Last Months Inspection Summary
 https://datawrapper.dwcdn.net/8o95a/1/   -Megan Chart-Inspections Per Month
 https://datawrapper.dwcdn.net/1UWqG/4/   -Megan Chart-Inspections Per Year
