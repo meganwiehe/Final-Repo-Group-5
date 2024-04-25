@@ -1,6 +1,6 @@
 # Health Inspection Data Analysis
 Project Description:
-The Health Department Food Inspectiion Trackers goal is to examine data from the City of Chicagos health department to provide more information and insights about the quality of food establishments in the city.By analyzing this data, our project will assist with mkaing informed decisions about food safety and hygiene. 
+The Health Department Food Inspectiion Trackers goal is to examine data from the City of Chicagos health department to provide more information and insights about the quality of food establishments in the city.By analyzing this data, our project will assist with making informed decisions about food safety and hygiene. 
 
 Projects Must Answer: 
 How many restaurants are inspected every week/month?
